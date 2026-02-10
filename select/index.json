@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "What Do I Know?",
+  "base_artist": "Ed Sheeran",
+  "createdAt": "2026-02-10T05:57:25.168829Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "What Do I Know?",
+      "artist": "Ed Sheeran",
+      "has_synced": true,
+      "path": "select/01_What_Do_I_Know_Ed_Sheeran.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "What Do I Know?",
+      "artist": "Saga",
+      "has_synced": false,
+      "path": "select/02_What_Do_I_Know_Saga.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "What Do I Know",
+      "artist": "Ricochet",
+      "has_synced": true,
+      "path": "select/03_What_Do_I_Know_Ricochet.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "What Do I Know?",
+      "artist": "Ed Sheeran",
+      "has_synced": true,
+      "path": "select/04_What_Do_I_Know_Ed_Sheeran.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "What Do I Know？",
+      "artist": "Ed Sheeran",
+      "has_synced": true,
+      "path": "select/05_What_Do_I_Know_Ed_Sheeran.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "What Do I Know",
+      "artist": "Saga",
+      "has_synced": false,
+      "path": "select/06_What_Do_I_Know_Saga.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "What Do I Know?",
+      "artist": "Ed Sheeran",
+      "has_synced": true,
+      "path": "select/07_What_Do_I_Know_Ed_Sheeran.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "What Do I Know?",
+      "artist": "Ed Sheeran",
+      "has_synced": true,
+      "path": "select/08_What_Do_I_Know_Ed_Sheeran.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "What Do I Know",
+      "artist": "Sara Groves",
+      "has_synced": true,
+      "path": "select/09_What_Do_I_Know_Sara_Groves.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "What Do I Know",
+      "artist": "Elvie Shane",
+      "has_synced": true,
+      "path": "select/10_What_Do_I_Know_Elvie_Shane.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "What Do I Know",
+      "artist": "Ed Sheeran",
+      "has_synced": true,
+      "path": "select/11_What_Do_I_Know_Ed_Sheeran.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "What Do I Know",
+      "artist": "4Him",
+      "has_synced": false,
+      "path": "select/12_What_Do_I_Know_4Him.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "What Do I Know",
+      "artist": "Jordan Lee",
+      "has_synced": true,
+      "path": "select/13_What_Do_I_Know_Jordan_Lee.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "What Do I Know",
+      "artist": "Ed Sheeran",
+      "has_synced": true,
+      "path": "select/14_What_Do_I_Know_Ed_Sheeran.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "What Do I Know?",
+      "artist": "Ed Sheeran",
+      "has_synced": true,
+      "path": "select/15_What_Do_I_Know_Ed_Sheeran.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "03 - What Do I Know",
+      "artist": "Saga",
+      "has_synced": false,
+      "path": "select/16_03_-_What_Do_I_Know_Saga.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "What Do I Know?",
+      "artist": "Ed Sheeran",
+      "has_synced": false,
+      "path": "select/pl_01_What_Do_I_Know_Ed_Sheeran.txt"
+    }
+  ]
+}
